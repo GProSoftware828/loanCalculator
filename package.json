@@ -1,0 +1,19 @@
+{
+  "name": "loancalculator",
+  "version": "1.0.0",
+  "description": "hostingApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GProSoftware828/loanCalculator.git"
+  },
+  "author": "George Payne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GProSoftware828/loanCalculator/issues"
+  },
+  "homepage": "https://github.com/GProSoftware828/loanCalculator#readme"
+}
