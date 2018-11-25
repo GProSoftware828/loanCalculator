@@ -1,10 +1,11 @@
 {
-  "name": "loancalculator",
+  "name": "loanCalculator",
   "version": "1.0.0",
   "description": "hostingApp",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/GProSoftware828/loanCalculator/issues"
   },
-  "homepage": "https://github.com/GProSoftware828/loanCalculator#readme"
+  "homepage": "https://github.com/GProSoftware828/loanCalculator#readme",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-morgan": "^1.0.1",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.3.13"
+  }
 }
